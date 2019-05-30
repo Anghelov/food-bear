@@ -6,7 +6,9 @@ Welcome to our restaurant,here is our menu:
 
 ## Soups 
 ## Main courses 
-## Burgers [](add-burger-dish.md)
+## [Burgers](add-burger-dish.md)
 ## Deserts
-## Drinks [](add-drinks-menu.md)
-- [Menu in progress](Menuinprogress.md)
+## [Drinks](add-drinks-menu.md)
+
+## [Menu in progress](Menuinprogress.md)
+
