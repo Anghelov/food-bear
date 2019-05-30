@@ -1,6 +1,6 @@
-#Despre noi
+# Despre noi
 
-## Restaurantul nostru va sta la dispozitie oferindu-va o gama larga de servicii pentru toate ocaziile, 
+Restaurantul nostru va sta la dispozitie oferindu-va o gama larga de servicii pentru toate ocaziile:
 - Nunti
 - Botezuri
 - Majorate
