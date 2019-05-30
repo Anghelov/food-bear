@@ -1,4 +1,4 @@
-# Meniu Băuturi
+﻿# Meniu Băuturi
 
 ## Băuturi răcoritoare
 * Fanta
@@ -8,6 +8,7 @@
 * Apă plată
 
 ## Băuturi alcoolice
+* [Cuba libre](CubaLibreDrink.md)
 ### Vinuri
 * Vin alb demisec
 * Vin alb dulce
