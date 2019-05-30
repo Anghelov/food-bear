@@ -3,7 +3,6 @@ Irish Coffee
 
 ![](irish.jpg "Coffee")
 
-[Irish Coffee](http://stackabuse.com)
 
 Ingredients
 2 tbsp double cream
