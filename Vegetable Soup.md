@@ -16,3 +16,6 @@ Vegetable soup
 * 1 1/2 cups chopped frozen or fresh green beans
 * 1 1/4 cups frozen or fresh corn
 * 1 cup frozen or fresh peas
+
+![Image](soup.jpg " soup")
+
