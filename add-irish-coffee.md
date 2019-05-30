@@ -1,9 +1,11 @@
 Irish Coffee
-Ingredients
-![My Alt Text](coffee.jpg "My Optional Title Text")
+
+
+![](coffee2.jpg "My Optional Title Text")
+
 [Irish Coffee](http://stackabuse.com)
 
-
+Ingredients
 2 tbsp double cream
 150ml freshly brewed black coffee
 50ml Irish whiskey
