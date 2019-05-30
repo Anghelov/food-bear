@@ -1,6 +1,6 @@
 Pancakes dish 
 ============
-Find the menu here:  [Food-bear](https://github.com/dezGusty/food-bear/blob/master/Menuinprogress.md)
+Find the menu here:  [Food-bear](https://github.com/dezGusty/food-bear/blob/master/Menu.md)
 
 INGREDIENTS
 
