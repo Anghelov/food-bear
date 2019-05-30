@@ -5,4 +5,4 @@ Acest restaurant este cu specific vanatoresc, avand mai mult de 30 de feluri de 
 
 Link catre menu: <>
 
-Link catre location: [I'm a relative reference to a repository file](location.md)
+Link catre location: [Location](location.md)
