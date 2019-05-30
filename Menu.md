@@ -10,5 +10,4 @@ Welcome to our restaurant,here is our menu:
 ## Deserts
 ## [Drinks](add-drinks-menu.md)
 
-## [Menu in progress](Menuinprogress.md)
 
