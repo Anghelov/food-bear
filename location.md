@@ -1,6 +1,6 @@
 ﻿# Where to find us
 
-![](map.jpg)
+![](pics/map.jpg)
 
 Bulevardul Eroilor 3A, Brașov 500007
 
