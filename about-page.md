@@ -1,7 +1,11 @@
 #Despre noi
 
-### Restaurantul nostru va sta la dispozitie oferindu-va o gama larga de servicii pentru toate ocaziile, 
-### Nunti, Botezuri, Majorate, Petreceri Private si Evenimente de Companie.
+## Restaurantul nostru va sta la dispozitie oferindu-va o gama larga de servicii pentru toate ocaziile, 
+- Nunti
+- Botezuri
+- Majorate
+- Petreceri Private
+- Evenimente de Companie.
 
 Bucatarul sef, doisprezece ani plecat in America, a invatat sa imbine stiinta cu arta de a gati sanatos. In acelasi timp, el accentueaza si imbina gusturile, astfel incat clientii sa primeasca o experienta culinara diferita si deloc comuna.
 
