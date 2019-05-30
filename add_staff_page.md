@@ -1,11 +1,11 @@
 
 # Staff-ul nostru
-=================
+===================
 
 Suntem o echipa tanara, dinamica si plina de dorinta. 
 Am pornit la drum in 2009, motivati in a pune temelia unui restaurant de succes in orasul tau.
 
-##Echipa noastra:
+## Echipa noastra:
 
    - Manager: Iulian Canache
 
