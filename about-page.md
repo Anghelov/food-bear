@@ -7,6 +7,9 @@
 - Petreceri Private
 - Evenimente de Companie.
 
+Suntem o echipa tanara, dinamica si plina de dorinta. 
+Am pornit la drum in 2009, motivati in a pune temelia unui restaurant de succes in orasul tau.
+
 Bucatarul sef, doisprezece ani plecat in America, a invatat sa imbine stiinta cu arta de a gati sanatos. In acelasi timp, el accentueaza si imbina gusturile, astfel incat clientii sa primeasca o experienta culinara diferita si deloc comuna.
 
 Va oferim garantia unei inalte calitati gastronomice si flexibilitate deplina in alcatuirea meniului, cat si adaptarea acestuia la bugetul dumneavoastra. 
