@@ -1,0 +1,13 @@
+# Tossed salad Ingredients
+
+* 1 cup blanched slivered almonds
+* 2 tablespoons sesame seeds
+* 1 head romaine lettuce, torn into bite-size pieces
+* 1 head red leaf lettuce, torn into bite-size pieces
+* 1 (8 ounce) package crumbled feta cheese
+* 1 (4 ounce) can sliced black olives
+* 1 cup cherry tomatoes, halved
+* 1 red onion, halved and thinly sliced
+* 6 fresh mushrooms, sliced
+* 1/4 cup grated Romano cheese
+* 1 (8 ounce) bottle Italian salad dressing
