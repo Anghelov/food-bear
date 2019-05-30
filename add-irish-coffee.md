@@ -1,7 +1,7 @@
 Irish Coffee
 
 
-![My Alt Text](coffee2.jpg "My Optional Title Text")
+![](coffee2.jpg "My Optional Title Text")
 
 [Irish Coffee](http://stackabuse.com)
 
