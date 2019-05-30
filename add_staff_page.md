@@ -1,5 +1,5 @@
 
-**Despre Noi**
+**Staff-ul nostru**
 =================
 
 Suntem o echipa tanara, dinamica si plina de dorinta. 
